@@ -1,0 +1,67 @@
+{
+    "types": [{
+            "name": "✨ Features",
+            "value": "feat"
+        },
+        {
+            "name": "🐛 Bug Fixes",
+            "value": "fix"
+        },
+        {
+            "name": "🧹 Refactoring",
+            "value": "refactor"
+        },
+        {
+            "name": "📝 Documentation",
+            "value": "docs"
+        },
+        {
+            "name": "🎨 Styles",
+            "value": "style"
+        },
+        {
+            "name": "🔧 Configuration",
+            "value": "chore"
+        },
+        {
+            "name": "⚡️ Performance Improvements",
+            "value": "perf"
+        },
+        {
+            "name": "♻️ Code Maintenance",
+            "value": "maint"
+        },
+        {
+            "name": "🚀 Deployment",
+            "value": "deploy"
+        },
+        {
+            "name": "🔥 Removing Code",
+            "value": "delete"
+        },
+        {
+            "name": "🚨 Critical Fix",
+            "value": "critical"
+        },
+        {
+            "name": "🔒 Security Fix",
+            "value": "security"
+        },
+        {
+            "name": "🌐 Internationalization",
+            "value": "i18n"
+        },
+        {
+            "name": "👷 CI/CD",
+            "value": "ci"
+        },
+        {
+            "name": "🚀 Release",
+            "value": "release"
+        }
+    ],
+    "scopes": ["frontend", "backend"],
+    "showEmoji": true,
+    "allowCustomScopes": true,
+    "showIssuePrompt": false
+}
